@@ -1,0 +1,24 @@
+{
+    "name": "PlutoTV AIO by HL",
+    "author": "Actualizada 14/12/2022-08:49",
+    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
+    "url": "https://helmerluzo.github.io/PlutoTV_HL/AIO.w3u",
+    "groups": [
+        {
+            "name": "Televisión",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ES/Maratones.png",
+            "groups": [
+                {
+                    "name": "España",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/es.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_ES.w3u"
+                },
+              ]
+        },
+        {
+            "name": "Películas 🇪🇸",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ES/Peliculas.png",
+            "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u"
+        },
+    ]
+}
